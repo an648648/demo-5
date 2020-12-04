@@ -2,7 +2,7 @@ Hi NESC3505!
 
 Welcome to my Demo 5. Although masks are a simple concept, I feel like they can be a very useful tool for future coding.
 
-I wanted to compile what I've learned about masks and see how they could be applied to different datasets other than in biomedical imaging. 
+I wanted to compile what I've learned about masks and see how they could be applied in different contexts. 
 
 Masks are useful for modifying arrays or images based on certain criteria. They are especially useful in modifying, counting, restricting data, as well as removing outliers.
 This Demo will show other applications of masking in Python.
