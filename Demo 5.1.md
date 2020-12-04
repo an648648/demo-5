@@ -468,7 +468,7 @@ plt.show()
 
 
     
-![png](oasis_cross-sectional_files/oasis_cross-sectional_10_0.png)
+![png](a.png)
     
 
 
