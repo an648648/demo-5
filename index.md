@@ -6,6 +6,6 @@ Masks are useful for modifying arrays or images based on certain criteria. In NE
 
 [Here](Demo_5_one.md) you will find simple examples of masking.
 
-[Here](Demo_5.one.md) you will find a masking example within a dataframe.
+[Here](5.1.md) you will find a masking example within a dataframe.
 
 Hope this is helpful!
