@@ -4,7 +4,7 @@ Welcome to my Demo 5. Although masks are a simple concept, I initially did not u
 
 Masks are useful for modifying arrays or images based on certain criteria. In NESC3505, we learned that masks can be used to remove outliers. In this Demo, I've compiled what I've learned about masks and tried to explain their applications in different contexts. 
 
-[Here](Demo_5.md) you will find simple examples of masking.
+[Here](Demo_5_one.md) you will find simple examples of masking.
 
 [Here](Demo_5.one.md) you will find a masking example within a dataframe.
 
